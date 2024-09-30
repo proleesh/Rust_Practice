@@ -10,4 +10,7 @@ pub fn range(){
         print!("{} ", i);
     }
     println!();
+
+    let sum: i32 = (1..=5).sum();
+    println!("1 + 2 + 3 + 4 + 5 = {}", sum);
 }
