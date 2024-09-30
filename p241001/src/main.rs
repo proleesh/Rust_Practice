@@ -1,5 +1,6 @@
 mod bool;
 mod emoji;
+mod range;
 
 fn main() {
     let float1: f32 = 1.1;
@@ -15,4 +16,5 @@ fn main() {
 
     bool::bools();
     emoji::emoji();
+    range::range();
 }
