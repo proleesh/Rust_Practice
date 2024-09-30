@@ -1,0 +1,1 @@
+/Users/sung-hyuklee/MyProject/Rust_Practice/p241001/target/debug/p241001: /Users/sung-hyuklee/MyProject/Rust_Practice/p241001/src/bool.rs /Users/sung-hyuklee/MyProject/Rust_Practice/p241001/src/main.rs
