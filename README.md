@@ -1,5 +1,5 @@
 # Rust LANGUAGE Practice
 
-## Update: 12.21.2023
+## Update: 9.30.2024
 
 ## Author: Sung-Hyuk Lee
