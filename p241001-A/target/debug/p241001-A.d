@@ -1,1 +1,1 @@
-/Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/target/debug/p241001-A: /Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/src/calc_emi.rs /Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/src/main.rs
+/Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/target/debug/p241001-A: /Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/src/array.rs /Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/src/calc_emi.rs /Users/sung-hyuklee/MyProject/Rust_Practice/p241001-A/src/main.rs

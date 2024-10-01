@@ -1,4 +1,5 @@
 mod calc_emi;
+mod array;
 
 fn main() {
     println!("Hello, ");
@@ -9,5 +10,6 @@ fn main() {
     println!("{}", message);
     println!("Hello, World");
 
-    calc_emi::calc_emi();
+    // calc_emi::calc_emi();
+    array::array();
 }
