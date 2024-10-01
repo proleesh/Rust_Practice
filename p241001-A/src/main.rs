@@ -1,3 +1,5 @@
+mod calc_emi;
+
 fn main() {
     println!("Hello, ");
     eprintln!("An error occurred: invalid input");
@@ -6,4 +8,6 @@ fn main() {
     let message = format!("My name is {f_name} and I am {age_} years old.", f_name = name, age_ = age);
     println!("{}", message);
     println!("Hello, World");
+
+    calc_emi::calc_emi();
 }
