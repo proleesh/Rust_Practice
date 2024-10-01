@@ -2,6 +2,7 @@ mod bool;
 mod emoji;
 mod range;
 mod array;
+mod borrow;
 
 fn main() {
     let float1: f32 = 1.1;
@@ -19,4 +20,5 @@ fn main() {
     emoji::emoji();
     range::range();
     array::array();
+    borrow::borrow();
 }
