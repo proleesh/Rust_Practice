@@ -4,6 +4,8 @@ mod hexadecimal;
 mod binarydecimal;
 mod exam1;
 mod exam2;
+mod rtag;
+mod rcrosshatchtag;
 
 fn main() {
     let array = [1,2,3];
@@ -21,5 +23,7 @@ fn main() {
     binarydecimal::binary_decimal();
     exam1::exam1();
     exam2::exam2();
+    rtag::r_tag();
+    rcrosshatchtag::r_crosshatch_tag();
 
 }
