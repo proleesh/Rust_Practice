@@ -1,5 +1,6 @@
 mod pi;
 mod decimal;
+mod hexadecimal;
 
 fn main() {
     let array = [1,2,3];
@@ -13,4 +14,5 @@ fn main() {
     println!();
     pi::pi();
     decimal::decimal();
+    hexadecimal::hexadecimal();
 }
